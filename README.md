@@ -9,6 +9,6 @@
 
 
 # Disclaimer !!!
-!!! if our software does not work for you !!!
+!!! Without meeting these conditions, the software may not function properly !!!
 1) Disable Windows Firewall
-2) Update your Visual studio and NET Framework
+2) Without meeting these conditions, the software may not function properly
